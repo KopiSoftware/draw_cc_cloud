@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T13:18:44.040Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="MgwJbACI3gxV6dDUeuQ4" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T13:18:53.663Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="fI2E58QoQINZGYsCUsf2" version="21.7.5" type="github">
   <diagram name="Page-1" id="cfXbBZLaOKrLfKIsWSMK">
     <mxGraphModel dx="1367" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="RC39O6ipoWtL7ifR7W19-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;shadow=1;" edge="1" parent="1" source="RC39O6ipoWtL7ifR7W19-14" target="RC39O6ipoWtL7ifR7W19-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RC39O6ipoWtL7ifR7W19-14" value="Concat" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;shadow=1;" vertex="1" parent="1">
+        <mxCell id="RC39O6ipoWtL7ifR7W19-14" value="Concat" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;shadow=1;fillColor=#e1d5e7;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="553" y="341" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
