@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T03:56:32.932Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="VVzSLzOiVBfOeABDA5fY" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T03:58:42.978Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="UhQI7nD-FHQLXbiJhmnU" version="24.0.4" type="github">
   <diagram name="Page-1" id="o1BHiC8lK3WUaxYGnt4t">
-    <mxGraphModel dx="2842" dy="2278" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="1" shadow="0">
+    <mxGraphModel dx="4170" dy="3063" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,11 +41,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g00GXGE0R_UTEEe9nyd9-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.841;entryY=0.927;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=blockThin;startFill=1;endArrow=none;endFill=0;strokeWidth=3;" parent="g00GXGE0R_UTEEe9nyd9-8" source="g00GXGE0R_UTEEe9nyd9-72" target="g00GXGE0R_UTEEe9nyd9-1" edge="1">
+        <mxCell id="g00GXGE0R_UTEEe9nyd9-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=blockThin;startFill=1;endArrow=none;endFill=0;strokeWidth=3;" parent="g00GXGE0R_UTEEe9nyd9-8" source="g00GXGE0R_UTEEe9nyd9-72" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1985" y="535" />
+              <mxPoint x="1875" y="534" />
+              <mxPoint x="1875" y="430" />
             </Array>
+            <mxPoint x="1875" y="429.46000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="g00GXGE0R_UTEEe9nyd9-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.358;entryY=0.603;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;endArrow=blockThin;endFill=1;" parent="g00GXGE0R_UTEEe9nyd9-8" source="g00GXGE0R_UTEEe9nyd9-71" target="g00GXGE0R_UTEEe9nyd9-1" edge="1">
@@ -140,6 +142,24 @@
         </mxCell>
         <mxCell id="KwUwQNw9CsM0ATTbP_9R-1" value="$$ \hat{q}(\hat{x_t}|\hat{x}_{t-1}) = N_3(\hat{x}_t;\sqrt{1-\hat{\beta}_t}\hat{x}_{t-1},\hat{\beta}_tI) $$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="661.5" y="-150" width="345" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KwUwQNw9CsM0ATTbP_9R-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;startArrow=blockThin;startFill=1;" edge="1" parent="1" source="g00GXGE0R_UTEEe9nyd9-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="339" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="595" y="188" />
+              <mxPoint x="670" y="188" />
+              <mxPoint x="670" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwUwQNw9CsM0ATTbP_9R-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.82;entryY=0.366;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="g00GXGE0R_UTEEe9nyd9-57" target="g00GXGE0R_UTEEe9nyd9-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="33" />
+              <mxPoint x="1180" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
